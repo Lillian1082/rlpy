@@ -266,3 +266,4 @@ setup(name="rlpy",
       ext_modules=extensions,
       test_suite='tests'
       )
+
